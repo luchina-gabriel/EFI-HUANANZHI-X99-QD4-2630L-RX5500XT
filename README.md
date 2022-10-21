@@ -23,12 +23,15 @@
 
 ## Where to buy
 KT Motherboard + Processor
+<br>
 https://s.click.aliexpress.com/e/_DFpHB1p
 
 Memory ECC DDR4, for Xeon
+<br>
 https://s.click.aliexpress.com/e/_DlfAUiX
 
 dGPU AMD RX 5500 XT 8 GB
+<br>
 https://s.click.aliexpress.com/e/_DFczJHD
 
 ## Discord - Universo Hackintosh
