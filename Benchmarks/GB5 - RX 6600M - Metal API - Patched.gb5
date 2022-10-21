@@ -1,0 +1,2338 @@
+{
+  "date": "2022-10-09 02:00:16 -0300",
+  "document_type": 1,
+  "document_version": 5,
+  "branch": "corktown-master-build",
+  "build": 503938,
+  "checksum": "968671ad45ce14f18c396fb3d15410282bf8ff9e",
+  "commit": "6006e737ba",
+  "options": {
+    "iterations": 20,
+    "cpu_workers": 0,
+    "memory_workers": 0,
+    "workload_gap": 1000
+  },
+  "platform": {
+    "os": "macOS",
+    "architecture": "x86_64",
+    "bits": 64
+  },
+  "processor_frequency": {
+    "frequencies": [
+      2160,
+      2156,
+      2223,
+      2188,
+      2130,
+      2088,
+      2130,
+      2352,
+      2289,
+      2343,
+      2573,
+      2454,
+      2198,
+      2234,
+      2131,
+      2158,
+      2177,
+      2392,
+      2387,
+      2308,
+      2359,
+      2306,
+      2351
+    ]
+  },
+  "runtime": 46.413916134000004,
+  "system_uuid": "e5d0a730b8630a5c0498c538786d5c3643720e15",
+  "clock": 0.006053643,
+  "uuid": "3942e3a3422b402dafa17cd33e97b3a5",
+  "version": "Geekbench 5.4.5",
+  "metrics": [
+    {
+      "id": 1,
+      "name": "Platform",
+      "value": "macOS x86 (64-bit)",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 2,
+      "name": "Compiler",
+      "value": "Clang 11.0.0 (clang-1100.0.33.12)",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 3,
+      "name": "Operating System",
+      "value": "macOS 13.0 (Build 22A5365d)",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 4,
+      "name": "Model ID",
+      "value": "iMacPro1,1",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 5,
+      "name": "Model",
+      "value": "iMacPro1,1",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 6,
+      "name": "Motherboard",
+      "value": "Acidanthera Mac-7BA5B2D9E42DDD94 iMacPro1,1",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 7,
+      "name": "Processor ID",
+      "value": "GenuineIntel Family 6 Model 63 Stepping 2",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 8,
+      "name": "Processor Brand",
+      "value": "Intel(R) Xeon(R) CPU E5-2630L v3 @ 1.80GHz",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 9,
+      "name": "Processor",
+      "value": "Intel Xeon E5-2630L v3",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 12,
+      "name": "Threads",
+      "value": "16",
+      "ivalue": 16,
+      "fvalue": 16.0
+    },
+    {
+      "id": 13,
+      "name": "Cores",
+      "value": "8",
+      "ivalue": 8,
+      "fvalue": 8.0
+    },
+    {
+      "id": 14,
+      "name": "Processors",
+      "value": "1",
+      "ivalue": 1,
+      "fvalue": 1.0
+    },
+    {
+      "id": 15,
+      "name": "Processor Frequency",
+      "value": "1.80 GHz",
+      "ivalue": 1800000000,
+      "fvalue": 1800000000.0
+    },
+    {
+      "id": 17,
+      "name": "L1 Instruction Cache",
+      "value": "32.0 KB",
+      "ivalue": 32768,
+      "fvalue": 32768.0
+    },
+    {
+      "id": 18,
+      "name": "L1 Instruction Cache Count",
+      "value": "8",
+      "ivalue": 8,
+      "fvalue": 8.0
+    },
+    {
+      "id": 19,
+      "name": "L1 Data Cache",
+      "value": "32.0 KB",
+      "ivalue": 32768,
+      "fvalue": 32768.0
+    },
+    {
+      "id": 20,
+      "name": "L1 Data Cache Count",
+      "value": "8",
+      "ivalue": 8,
+      "fvalue": 8.0
+    },
+    {
+      "id": 21,
+      "name": "L2 Cache",
+      "value": "256 KB",
+      "ivalue": 262144,
+      "fvalue": 262144.0
+    },
+    {
+      "id": 22,
+      "name": "L2 Cache Count",
+      "value": "8",
+      "ivalue": 8,
+      "fvalue": 8.0
+    },
+    {
+      "id": 23,
+      "name": "L3 Cache",
+      "value": "20.0 MB",
+      "ivalue": 20971520,
+      "fvalue": 20971520.0
+    },
+    {
+      "id": 24,
+      "name": "L3 Cache Count",
+      "value": "1",
+      "ivalue": 1,
+      "fvalue": 1.0
+    },
+    {
+      "id": 25,
+      "name": "L4 Cache",
+      "value": "0.00 B",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 26,
+      "name": "L4 Cache Count",
+      "value": "1",
+      "ivalue": 1,
+      "fvalue": 1.0
+    },
+    {
+      "id": 27,
+      "name": "Bus Frequency",
+      "value": "400 MHz",
+      "ivalue": 400000000,
+      "fvalue": 400000000.0
+    },
+    {
+      "id": 29,
+      "name": "Size",
+      "value": "32.0 GB",
+      "ivalue": 34359738368,
+      "fvalue": 34359738368.0
+    },
+    {
+      "id": 30,
+      "name": "Type",
+      "value": "DDR4",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 31,
+      "name": "BIOS",
+      "value": "Acidanthera 1916.40.2.0.0",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 34,
+      "name": "GPU 1",
+      "value": "AMD Radeon Navi23",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 38,
+      "name": "Chassis Manufacturer",
+      "value": "Acidanthera",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 39,
+      "name": "Chassis Type",
+      "value": "0xd",
+      "ivalue": 13,
+      "fvalue": 13.0
+    },
+    {
+      "id": 74,
+      "name": "OS Release ID",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 75,
+      "name": "Clock Frequency",
+      "value": "933 MHz",
+      "ivalue": 933,
+      "fvalue": 933.0
+    },
+    {
+      "id": 87,
+      "name": "Transfer Rate",
+      "value": "1866 MT/s",
+      "ivalue": 1866,
+      "fvalue": 1866.0
+    },
+    {
+      "id": 88,
+      "name": "Compiler Name",
+      "value": "Clang",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 89,
+      "name": "CPU Frequency (MHz)",
+      "value": "1800 MHz",
+      "ivalue": 1800,
+      "fvalue": 1800.0
+    },
+    {
+      "id": 90,
+      "name": "Kernel",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 4000,
+      "name": "Metal Device Name",
+      "value": "AMD Radeon Navi23",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 4001,
+      "name": "Metal Device Max Threads per Threadgroup Width",
+      "value": "1024",
+      "ivalue": 1024,
+      "fvalue": 1024.0
+    },
+    {
+      "id": 4002,
+      "name": "Metal Device Max Threads per Threadgroup Height",
+      "value": "1024",
+      "ivalue": 1024,
+      "fvalue": 1024.0
+    },
+    {
+      "id": 4003,
+      "name": "Metal Device Max Threads per Threadgroup Depth",
+      "value": "1024",
+      "ivalue": 1024,
+      "fvalue": 1024.0
+    },
+    {
+      "id": 4011,
+      "name": "Metal Device Unified Memory",
+      "value": "False",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 4004,
+      "name": "Metal Device Headless",
+      "value": "False",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 4005,
+      "name": "Metal Device Low Power",
+      "value": "False",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 4006,
+      "name": "Metal Device Depth24Stencil8 Format Supported",
+      "value": "True",
+      "ivalue": 1,
+      "fvalue": 1.0
+    },
+    {
+      "id": 4010,
+      "name": "Metal Device Removable",
+      "value": "False",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 4008,
+      "name": "Metal Device Maximum Transfer Rate",
+      "value": "1.34 GB",
+      "ivalue": 1442921232,
+      "fvalue": 1442921216.0
+    },
+    {
+      "id": 84,
+      "name": "",
+      "value": "",
+      "ivalue": 46413,
+      "fvalue": 0.0
+    },
+    {
+      "id": 85,
+      "name": "",
+      "value": "",
+      "ivalue": 46000,
+      "fvalue": 0.0
+    },
+    {
+      "id": 86,
+      "name": "",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 1000,
+      "name": "Compute Device",
+      "value": "AMD Radeon Navi23",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 10,
+      "name": "Processor Codename",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 11,
+      "name": "Processor Package",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 16,
+      "name": "Stock Processor Frequency",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 28,
+      "name": "Stock Bus Frequency",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 76,
+      "name": "Number of Channels",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 77,
+      "name": "CAS Latency",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 78,
+      "name": "RAS to CAS Delay",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 79,
+      "name": "RAS Precharge",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 80,
+      "name": "Cycle Time",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 81,
+      "name": "Bank Cycle Time",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 82,
+      "name": "Command Rate",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 32,
+      "name": "Northbridge",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 33,
+      "name": "Southbridge",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 66,
+      "name": "Processor Minimum Multiplier",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 67,
+      "name": "Processor Maximum Multiplier",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 68,
+      "name": "Processor Minimum Frequency",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    },
+    {
+      "id": 69,
+      "name": "Processor Maximum Frequency",
+      "value": "",
+      "ivalue": 0,
+      "fvalue": 0.0
+    }
+  ],
+  "multicore_rate": 0.0,
+  "multicore_score": 0,
+  "score": 73698,
+  "valid": 1,
+  "sections": [
+    {
+      "name": "Metal",
+      "id": 7,
+      "score": 73698,
+      "graph_width": 16,
+      "valid": 1,
+      "workloads": [
+        {
+          "name": "Sobel",
+          "id": 220,
+          "units": 9,
+          "threads": 1,
+          "score": 77251,
+          "graph_width": 16,
+          "factory_clock": 1.6863870390000002,
+          "factory_runtime": 0.39798482300000004,
+          "workload_clock": 2.0844070340000003,
+          "runtime": 0.0011781634736842104,
+          "runtime_max": 0.0012120450000000001,
+          "runtime_mean": 0.0011781634736842104,
+          "runtime_median": 0.001175773,
+          "runtime_min": 0.0011250230000000002,
+          "runtime_stddev": 2.5118851801360558e-05,
+          "runtime_warmup": 0.0014127830000000001,
+          "runtimes": [
+            0.0011951490000000002,
+            0.001148383,
+            0.001169886,
+            0.0011533030000000001,
+            0.0011250230000000002,
+            0.0011678300000000001,
+            0.001175773,
+            0.0012120450000000001,
+            0.0012119420000000001,
+            0.001182642,
+            0.0011874170000000001,
+            0.0011998870000000002,
+            0.0011741760000000001,
+            0.0012099460000000002,
+            0.0012044780000000001,
+            0.0011380920000000001,
+            0.0011664050000000001,
+            0.001171133,
+            0.0011915960000000001
+          ],
+          "valid": 1,
+          "workload_rate": 19988709993.153484,
+          "work": 23549968,
+          "rate_string": "20.0 Gpixels/sec",
+          "kernels": [
+            {
+              "name": "grayscale_uint_buffer",
+              "size": [
+                8,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "sobel_buffer",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        },
+        {
+          "name": "Canny",
+          "id": 221,
+          "units": 9,
+          "threads": 1,
+          "score": 65277,
+          "graph_width": 14,
+          "factory_clock": 4.5216504840000002,
+          "factory_runtime": 0.329065573,
+          "workload_clock": 4.8507404699999999,
+          "runtime": 0.005763473842105263,
+          "runtime_max": 0.0060417090000000001,
+          "runtime_mean": 0.005763473842105263,
+          "runtime_median": 0.0057068370000000002,
+          "runtime_min": 0.0056601630000000002,
+          "runtime_stddev": 0.00012021508494096138,
+          "runtime_warmup": 0.0057193730000000007,
+          "runtimes": [
+            0.0057005530000000006,
+            0.0056733120000000007,
+            0.0056788850000000007,
+            0.0057790290000000006,
+            0.0060417090000000001,
+            0.0060213260000000005,
+            0.0058076250000000003,
+            0.005881435,
+            0.0057281120000000005,
+            0.0057068370000000002,
+            0.0059444020000000005,
+            0.0056918280000000003,
+            0.0057143010000000006,
+            0.0056769100000000003,
+            0.0056601630000000002,
+            0.0057345600000000005,
+            0.0056912540000000006,
+            0.0056773280000000006,
+            0.0056964340000000002
+          ],
+          "valid": 1,
+          "workload_rate": 4086071811.0586138,
+          "work": 23549968,
+          "rate_string": "4.09 Gpixels/sec",
+          "kernels": [
+            {
+              "name": "grayscale_uint_buffer",
+              "size": [
+                8,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "blur",
+              "size": [
+                256,
+                2,
+                1
+              ]
+            },
+            {
+              "name": "gradient",
+              "size": [
+                256,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "non_maximum_suppression",
+              "size": [
+                128,
+                2,
+                1
+              ]
+            },
+            {
+              "name": "hysteresis",
+              "size": [
+                2,
+                32,
+                1
+              ]
+            },
+            {
+              "name": "edge_map_to_image",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        },
+        {
+          "name": "Stereo Matching",
+          "id": 222,
+          "units": 9,
+          "threads": 1,
+          "score": 254983,
+          "graph_width": 55,
+          "factory_clock": 8.5237301370000012,
+          "factory_runtime": 0.021284654,
+          "workload_clock": 8.5450325239999998,
+          "runtime": 0.0036237756315789481,
+          "runtime_max": 0.003749881,
+          "runtime_mean": 0.0036237756315789481,
+          "runtime_median": 0.0036170890000000004,
+          "runtime_min": 0.0035506410000000002,
+          "runtime_stddev": 4.4379669574918415e-05,
+          "runtime_warmup": 0.0036315470000000002,
+          "runtimes": [
+            0.0036166000000000002,
+            0.0036246990000000003,
+            0.0036712200000000002,
+            0.003749881,
+            0.0035932760000000003,
+            0.0036126410000000002,
+            0.0035942200000000004,
+            0.0036412300000000001,
+            0.0035969810000000004,
+            0.0035506410000000002,
+            0.0036697710000000001,
+            0.0036042330000000001,
+            0.0035709390000000004,
+            0.0035862800000000003,
+            0.0036212820000000004,
+            0.003655489,
+            0.003657773,
+            0.0036170890000000004,
+            0.0036174920000000004
+          ],
+          "valid": 1,
+          "workload_rate": 360618353027.17194,
+          "work": 1306800000,
+          "rate_string": "360.6 Gpixels/sec",
+          "kernels": [
+            {
+              "name": "stereo_compute_disparity",
+              "size": [
+                32,
+                2,
+                1
+              ]
+            },
+            {
+              "name": "stereo_compute_color",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        },
+        {
+          "name": "Histogram Equalization",
+          "id": 230,
+          "units": 9,
+          "threads": 1,
+          "score": 40630,
+          "graph_width": 8,
+          "factory_clock": 12.551878510000002,
+          "factory_runtime": 0.21150825600000001,
+          "workload_clock": 12.763404583000002,
+          "runtime": 0.0032856628421052635,
+          "runtime_max": 0.003747869,
+          "runtime_mean": 0.0032856628421052635,
+          "runtime_median": 0.0031966920000000001,
+          "runtime_min": 0.0031439750000000002,
+          "runtime_stddev": 0.00019617898099673703,
+          "runtime_warmup": 0.0032431640000000002,
+          "runtimes": [
+            0.003747869,
+            0.0036894570000000002,
+            0.0036917770000000003,
+            0.0031814160000000003,
+            0.0033914790000000002,
+            0.0031855170000000001,
+            0.003261711,
+            0.0031868600000000001,
+            0.0032320490000000003,
+            0.0031586020000000004,
+            0.003227288,
+            0.0031925860000000003,
+            0.0031803880000000001,
+            0.0031769130000000004,
+            0.0031610030000000003,
+            0.0031439750000000002,
+            0.0032149680000000003,
+            0.003207044,
+            0.0031966920000000001
+          ],
+          "valid": 1,
+          "workload_rate": 7167493784.8798075,
+          "work": 23549968,
+          "rate_string": "7.17 Gpixels/sec",
+          "kernels": [
+            {
+              "name": "rgbtogray",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "histogram",
+              "size": [
+                256,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "histogram_to_cdf",
+              "size": [
+                256,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "normalize_cdf",
+              "size": [
+                1024,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "histogram_equalize",
+              "size": [
+                16,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "color_histogram_equalize",
+              "size": [
+                16,
+                32,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        },
+        {
+          "name": "Gaussian Blur",
+          "id": 303,
+          "units": 9,
+          "threads": 1,
+          "score": 67630,
+          "graph_width": 14,
+          "factory_clock": 16.746094547000002,
+          "factory_runtime": 0.18711730300000001,
+          "workload_clock": 16.933229365000003,
+          "runtime": 0.0063347320000000009,
+          "runtime_max": 0.0067381330000000003,
+          "runtime_mean": 0.0063347320000000009,
+          "runtime_median": 0.0062902880000000006,
+          "runtime_min": 0.0061721670000000001,
+          "runtime_stddev": 0.00014078511828788349,
+          "runtime_warmup": 0.0061595080000000002,
+          "runtimes": [
+            0.0064627230000000001,
+            0.0067381330000000003,
+            0.0065178640000000008,
+            0.0062445120000000007,
+            0.0064596180000000003,
+            0.0062305120000000005,
+            0.006206034,
+            0.006185444,
+            0.0062902880000000006,
+            0.0062715030000000003,
+            0.0064169750000000001,
+            0.0064560530000000007,
+            0.0062652250000000001,
+            0.0061721670000000001,
+            0.0062723500000000003,
+            0.0062972120000000008,
+            0.0062911600000000005,
+            0.0062693510000000003,
+            0.0063127840000000001
+          ],
+          "valid": 1,
+          "workload_rate": 3717594998.4940162,
+          "work": 23549968,
+          "rate_string": "3.72 Gpixels/sec",
+          "kernels": [
+            {
+              "name": "convolve_1d_horizontal",
+              "size": [
+                8,
+                128,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical",
+              "size": [
+                4,
+                256,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        },
+        {
+          "name": "Depth of Field",
+          "id": 304,
+          "units": 9,
+          "threads": 1,
+          "score": 221202,
+          "graph_width": 48,
+          "factory_clock": 21.875686172000002,
+          "factory_runtime": 0.043235651999999999,
+          "workload_clock": 21.918949976,
+          "runtime": 0.00091997168421052657,
+          "runtime_max": 0.0012410650000000002,
+          "runtime_mean": 0.00091997168421052657,
+          "runtime_median": 0.00088090400000000006,
+          "runtime_min": 0.00081369700000000005,
+          "runtime_stddev": 9.7562043145234102e-05,
+          "runtime_warmup": 0.00093112500000000009,
+          "runtimes": [
+            0.00095450100000000007,
+            0.000978694,
+            0.0012410650000000002,
+            0.0010096510000000001,
+            0.001021021,
+            0.00087998900000000007,
+            0.00088090400000000006,
+            0.0008743030000000001,
+            0.00088190800000000004,
+            0.00087617400000000007,
+            0.00087828700000000006,
+            0.00081369700000000005,
+            0.00091916300000000008,
+            0.00085958200000000001,
+            0.00098008899999999996,
+            0.000844687,
+            0.00088323900000000007,
+            0.00085247700000000003,
+            0.00085003100000000001
+          ],
+          "valid": 1,
+          "workload_rate": 2564531105.1335554,
+          "work": 2359296,
+          "rate_string": "2.56 Gpixels/sec",
+          "kernels": [
+            {
+              "name": "lens_blur",
+              "size": [
+                8,
+                64,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        },
+        {
+          "name": "Face Detection",
+          "id": 305,
+          "units": 20,
+          "threads": 1,
+          "score": 15354,
+          "graph_width": 3,
+          "factory_clock": 23.753085902000002,
+          "factory_runtime": 0.124340217,
+          "workload_clock": 23.877443916000001,
+          "runtime": 0.0084594076842105289,
+          "runtime_max": 0.0089613699999999998,
+          "runtime_mean": 0.0084594076842105289,
+          "runtime_median": 0.0084106520000000011,
+          "runtime_min": 0.0083094350000000004,
+          "runtime_stddev": 0.00016130020354091035,
+          "runtime_warmup": 0.0085611760000000002,
+          "runtimes": [
+            0.0083761870000000002,
+            0.0089613699999999998,
+            0.008410921,
+            0.0084800830000000011,
+            0.0083094350000000004,
+            0.008320300000000001,
+            0.0084169960000000012,
+            0.0083601250000000012,
+            0.0083789859999999997,
+            0.0084005680000000006,
+            0.0084800420000000001,
+            0.0083919670000000002,
+            0.0084106520000000011,
+            0.0085194830000000013,
+            0.0083426060000000007,
+            0.0084984940000000005,
+            0.0083734710000000004,
+            0.0085103799999999997,
+            0.0087866799999999998
+          ],
+          "valid": 1,
+          "workload_rate": 118.21158612162627,
+          "work": 1,
+          "rate_string": "118.2 images/sec",
+          "kernels": [
+            {
+              "name": "square_image",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "detect",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        },
+        {
+          "name": "Horizon Detection",
+          "id": 306,
+          "units": 9,
+          "threads": 1,
+          "score": 78091,
+          "graph_width": 17,
+          "factory_clock": 25.788301159000003,
+          "factory_runtime": 0.26857763300000004,
+          "workload_clock": 26.056900909000003,
+          "runtime": 0.0047096765263157899,
+          "runtime_max": 0.0051382870000000001,
+          "runtime_mean": 0.0047096765263157899,
+          "runtime_median": 0.0046353260000000004,
+          "runtime_min": 0.0044410030000000007,
+          "runtime_stddev": 0.00020191516149373461,
+          "runtime_warmup": 0.0053921630000000002,
+          "runtimes": [
+            0.004478788,
+            0.0044410030000000007,
+            0.0045780820000000007,
+            0.0045728360000000003,
+            0.0049767020000000004,
+            0.0051382870000000001,
+            0.004786724,
+            0.004947318,
+            0.0046353260000000004,
+            0.0049644300000000006,
+            0.0044955139999999999,
+            0.0048689150000000006,
+            0.0048147540000000001,
+            0.0046126580000000004,
+            0.004560064,
+            0.0045642800000000004,
+            0.0045569240000000004,
+            0.0046375670000000004,
+            0.0048536820000000007
+          ],
+          "valid": 1,
+          "workload_rate": 1924809899.2249482,
+          "work": 9065232,
+          "rate_string": "1.92 Gpixels/sec",
+          "kernels": [
+            {
+              "name": "grayscale_uchar_buffer",
+              "size": [
+                32,
+                32,
+                1
+              ]
+            },
+            {
+              "name": "blur",
+              "size": [
+                256,
+                2,
+                1
+              ]
+            },
+            {
+              "name": "gradient",
+              "size": [
+                256,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "non_maximum_suppression",
+              "size": [
+                128,
+                2,
+                1
+              ]
+            },
+            {
+              "name": "hysteresis",
+              "size": [
+                2,
+                32,
+                1
+              ]
+            },
+            {
+              "name": "edge_map_to_image",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "hough_get_scores",
+              "size": [
+                2,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "hough_get_lines",
+              "size": [
+                16,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "rotate_image",
+              "size": [
+                128,
+                4,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        },
+        {
+          "name": "Feature Matching",
+          "id": 311,
+          "units": 9,
+          "threads": 1,
+          "score": 25129,
+          "graph_width": 5,
+          "factory_clock": 29.094352818000001,
+          "factory_runtime": 0.135126052,
+          "workload_clock": 29.229500828000003,
+          "runtime": 0.022993715105263161,
+          "runtime_max": 0.023812277,
+          "runtime_mean": 0.022993715105263161,
+          "runtime_median": 0.022888456000000001,
+          "runtime_min": 0.02253875,
+          "runtime_stddev": 0.00042009660218730811,
+          "runtime_warmup": 0.023718837000000003,
+          "runtimes": [
+            0.023812277,
+            0.023585163000000003,
+            0.02366797,
+            0.023338015,
+            0.022888456000000001,
+            0.022722456000000002,
+            0.022722280000000001,
+            0.022601490000000002,
+            0.022709807000000002,
+            0.02253875,
+            0.022581385000000002,
+            0.022601156000000001,
+            0.023088911,
+            0.023426795,
+            0.023304924000000001,
+            0.023179531,
+            0.022590017,
+            0.022587259000000002,
+            0.022933945000000001
+          ],
+          "valid": 1,
+          "workload_rate": 519819522.21649063,
+          "work": 11952582,
+          "rate_string": "519.8 Mpixels/sec",
+          "kernels": [
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "scale_pyramid",
+              "size": [
+                32,
+                8,
+                1
+              ]
+            },
+            {
+              "name": "fast_corners",
+              "size": [
+                16,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "nonmax_suppression",
+              "size": [
+                32,
+                4,
+                1
+              ]
+            },
+            {
+              "name": "compute_keypoints",
+              "size": [
+                4,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "sort_keypoints",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_horizontal_grayscale",
+              "size": [
+                16,
+                16,
+                1
+              ]
+            },
+            {
+              "name": "convolve_1d_vertical_grayscale",
+              "size": [
+                16,
+                64,
+                1
+              ]
+            },
+            {
+              "name": "calculate_descriptors",
+              "size": [
+                128,
+                1,
+                1
+              ]
+            },
+            {
+              "name": "knn_match",
+              "size": [
+                256,
+                1,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        },
+        {
+          "name": "Particle Physics",
+          "id": 320,
+          "units": 12,
+          "threads": 1,
+          "score": 457502,
+          "graph_width": 100,
+          "factory_clock": 32.235445435999999,
+          "factory_runtime": 0.0020031090000000003,
+          "workload_clock": 32.237466888,
+          "runtime": 0.016412329315789478,
+          "runtime_max": 0.016863011000000001,
+          "runtime_mean": 0.016412329315789478,
+          "runtime_median": 0.016431693000000001,
+          "runtime_min": 0.016042325,
+          "runtime_stddev": 0.0002173228140008042,
+          "runtime_warmup": 0.016802630000000002,
+          "runtimes": [
+            0.016181909000000001,
+            0.016321924000000002,
+            0.016292925,
+            0.016201711000000001,
+            0.016237847,
+            0.016697596000000002,
+            0.016476704000000002,
+            0.016042325,
+            0.016559403,
+            0.016556464,
+            0.016618038000000002,
+            0.016460654000000002,
+            0.016863011000000001,
+            0.016139197000000001,
+            0.016482607,
+            0.016270146000000003,
+            0.016431693000000001,
+            0.016310735999999999,
+            0.016689367
+          ],
+          "valid": 1,
+          "workload_rate": 12185.960697704868,
+          "work": 200,
+          "rate_string": "12186.0 FPS",
+          "kernels": [
+            {
+              "name": "particle",
+              "size": [
+                64,
+                1,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        },
+        {
+          "name": "SFFT",
+          "id": 321,
+          "units": 1,
+          "threads": 1,
+          "score": 32335,
+          "graph_width": 7,
+          "factory_clock": 33.651433350000005,
+          "factory_runtime": 8.9511953850000001,
+          "workload_clock": 42.602652634000002,
+          "runtime": 0.0037667646842105265,
+          "runtime_max": 0.0039555630000000005,
+          "runtime_mean": 0.0037667646842105265,
+          "runtime_median": 0.0037401700000000001,
+          "runtime_min": 0.0034976790000000001,
+          "runtime_stddev": 0.00010966461132879076,
+          "runtime_warmup": 0.0029805310000000002,
+          "runtimes": [
+            0.0038383980000000002,
+            0.0037715250000000004,
+            0.0037795040000000004,
+            0.0037374670000000004,
+            0.0038064930000000002,
+            0.0039555630000000005,
+            0.0037157030000000003,
+            0.0036704210000000001,
+            0.0036998200000000004,
+            0.0037401700000000001,
+            0.0038011810000000003,
+            0.0037273680000000004,
+            0.0037327180000000003,
+            0.0039432800000000004,
+            0.0038262490000000003,
+            0.0036730970000000002,
+            0.0039468189999999998,
+            0.003705074,
+            0.0034976790000000001
+          ],
+          "valid": 1,
+          "workload_rate": 445401223769.73822,
+          "work": 1677721600,
+          "rate_string": "445.4 Gflops",
+          "kernels": [
+            {
+              "name": "fft",
+              "size": [
+                1024,
+                1,
+                1
+              ]
+            }
+          ],
+          "temperatures": []
+        }
+      ]
+    }
+  ],
+  "complete_benchmark": 1,
+  "compute_api": 2,
+  "compute_platform_id": -1,
+  "compute_device_id": 0,
+  "compute_platform_name": "",
+  "compute_device_name": "AMD Radeon Navi23"
+}
