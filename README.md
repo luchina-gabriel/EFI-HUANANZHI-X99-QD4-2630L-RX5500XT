@@ -1,5 +1,7 @@
 # Huananzhi X99 QD4 + Xeon E5 2630L  + 32 Gb Dual Channel + RX 5500 XT
 
+![about-this-mac](https://user-images.githubusercontent.com/23700365/197277165-d3c90dd3-42be-4857-bc88-df83c4255f99.png)
+
 # EFI Details
 **Latest working macOS**: 13.0 macOS Ventura
 <br>
