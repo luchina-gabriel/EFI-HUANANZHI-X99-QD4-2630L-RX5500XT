@@ -5,9 +5,9 @@
 # EFI Details
 **Latest working macOS**: 13.0 macOS Ventura
 <br>
-**Current OpenCore**: 0.8.5
+**Current OpenCore**: 0.8.7
 <br>
-**Release date**: 21/10/2022
+**Release date**: 08/12/2022
 
 # Notebook specifications
 |Item|Description|
